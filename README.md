@@ -1,1 +1,3 @@
-# Familymanagement
+__pycache__/
+*.pyc
+.streamlit/secrets.toml

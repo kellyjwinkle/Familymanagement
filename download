@@ -1,0 +1,4 @@
+id,title,type,priority,owner,status,due_date,kid_tag,notes,updated_at
+1,Buy school shoes for twins,Buy,High,Both,In progress,2026-08-01,Twins,Check current sizes before ordering.,2026-06-11 16:00
+2,Schedule annual checkups,Do,High,You,Not started,2026-07-15,All kids,Call pediatric office and ask for back-to-school forms.,2026-06-11 16:05
+3,Build weekly family budget review habit,Goal,Medium,Both,In progress,,,Review spending every Sunday evening.,2026-06-11 16:10
